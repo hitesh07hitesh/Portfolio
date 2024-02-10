@@ -32,7 +32,7 @@ const Bannner = () => {
 
                 <div className='circle absolute bottom-0 h-[8rem] md:h-[15rem] w-full bg-gradient-to-b from-transparent to-[#000000] z-40'></div>
                 <div className='absolute bottom-0 flex text-[5rem]  md:text-[10rem] h-[5.6rem]  md:h-[11.1rem] agap-4 cvc z-40 px-[2px] sm:px-[1rem] md-[2rem] cursor-default justify-between w-full'>
-                    <span className='hover:mb-[2rem]'>H</span>
+                    <span>H</span>
                     <span className='hover:mt-[2rem]'>V</span>
                     <span className='hover:mt-[2rem]'>i</span>
                     <span className='hover:mt-[2rem]'>s</span>

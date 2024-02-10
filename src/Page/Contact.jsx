@@ -39,7 +39,7 @@ const Contact = () => {
                             </button>
                             <button className=' border-b-[1px] border-white pb-2 border-dashed'>
                                 <a className="text-white flex items-center glowText" href="tel:+9050457334">
-                                    <img src={phoneIcon} alt="" className="w-6 h-6 mr-2" />
+                                    <img src={phoneIcon} alt="" className="w-6 h-6 mr-2 shadow " />
                                     9050457334
                                 </a>
                             </button>

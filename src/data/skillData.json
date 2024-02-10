@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "HTML",
+        "color": "#ff5722",
+        "icon": "htmlImg."
+    },
+    {
+        "id": 2,
+        "name": "CSS",
+        "color": "#3498db",
+        "icon": "cssImg"
+    },
+    {
+        "id": 3,
+        "name": "Tailwind",
+        "color": "#38B2AC",
+        "icon": "tailwindImg"
+    },
+    {
+        "id": 4,
+        "name": "JavaScript",
+        "color": "#fed93d",
+        "icon": "javaScriptImg"
+    },
+    {
+        "id": 5,
+        "name": "React Js",
+        "color": "#02a2e4",
+        "icon": "reactImg"
+    },
+    {
+        "id": 6,
+        "name": "Redux",
+        "color": "#764abc",
+        "icon": "reduxImg"
+    },
+    {
+        "id": 7,
+        "name": "Node Js",
+        "color": "#8ac54a",
+        "icon": "nodeJsImg"
+    },
+    {
+        "id": 8,
+        "name": "Express Js",
+        "color": "#fff",
+        "icon": "expressImg"
+    },
+    {
+        "id": 9,
+        "name": "Mongo DB",
+        "color": "#429a35",
+        "icon": "mongodbImg"
+    },
+    {
+        "id": 10,
+        "name": "Git",
+        "color": "#ef5033",
+        "icon": "gitImg"
+    }
+
+]

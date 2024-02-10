@@ -89,9 +89,9 @@ const Skill = () => {
                             <div className='border-[1px]  p-4  rounded-full  bg-[#f8f8f806]'
                                 style={{ borderColor: item.color }}
                             >
-                                <img className={item.id === 3 && `py-2`} src={item.icon} alt="html" />
+                                <img className={item.id === 3 ? 'py-2' : ''} src={item.icon} alt="html" />
                             </div>
-                            <h3 className={`text-[${item.color}]`}>{item.name}</h3>
+                            <h3 className={`text-[${item.color}] `}>{item.name}</h3>
                         </div>
                     ))}
 

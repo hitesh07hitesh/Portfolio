@@ -4,13 +4,13 @@ import gallaryIcon from '../../assets/image/image.svg'
 import Slider from './Slider'
 
 
-const Swiper = () => {
+const Swiper = (props) => {
     const [show, setShow] = useState(false);
 
     return (
         <>
             <div>
-                <button className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white border-[1px] p-1 px-4 backdrop-blur-md flex items-center gap-2' onClick={() => setShow(!show)}>
+                <button className='absolute bottom-2 left-1/2 transform -translate-x-1/2  text-white border-t-[1px] border-b-[1px] rounded-full w-auto p-1 px-4 backdrop-blur-sm flex items-center gap-2 ease-in-out delay-250   hover:border-[1px] hover:bottom-3' onClick={() => setShow(!show)}>
                     Images
                     <img  src={gallaryIcon} alt="" />
                 </button>
@@ -25,7 +25,7 @@ const Swiper = () => {
                     </button>
                     {/* swiper */}
                     <div className="">
-                        <Slider/>
+                        <Slider project={props.proj}/>
                     </div>
                 </div>
             </div>
