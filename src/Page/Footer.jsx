@@ -1,8 +1,7 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import emailIcon from '../assets/image/mail.svg'
 import linkedinIcon from '../assets/image/linkedin.svg'
 import githubIcon from '../assets/image/github.svg'
-import phoneIcon from '../assets/image/phone.svg'
 import clipboardIcon from '../assets/image/clipboard.svg'
 
 
@@ -34,7 +33,7 @@ const Footer = () => {
                         </a>
                     </button>
                     <button className="text-white relative ml-2" onClick={copyEmail}>
-                        <img src={clipboardIcon} alt="" className="w-6 h-6" />
+                        <img src={clipboardIcon} alt="" className="w-5 h-5" />
                         {copybadge &&
                             <div className='bg-red-500 text-white px-2 rounded-md absolute -bottom-8 -right-5 ease-in-out delay-500 co'>copied!</div>}
                     </button>
