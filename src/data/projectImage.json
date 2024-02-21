@@ -3,15 +3,15 @@
     "id": "614d",
     "name": "GreenGrocery",
     "image": [
-      "/src/assets/image/projects/Green_01.png",
-      "/src/assets/image/projects/Green_02.png",
-      "/src/assets/image/projects/Green_03.png",
-      "/src/assets/image/projects/Green_04.png",
-      "/src/assets/image/projects/Green_05.png",
-      "/src/assets/image/projects/Green_06.png",
-      "/src/assets/image/projects/Green_07.png",
-      "/src/assets/image/projects/Green_08.png",
-      "/src/assets/image/projects/Green_01.png"
+      "/src/assets/projects/Green_01.png",
+      "/src/assets/projects/Green_02.png",
+      "/src/assets/projects/Green_03.png",
+      "/src/assets/projects/Green_04.png",
+      "/src/assets/projects/Green_05.png",
+      "/src/assets/projects/Green_06.png",
+      "/src/assets/projects/Green_07.png",
+      "/src/assets/projects/Green_08.png",
+      "/src/assets/projects/Green_01.png"
     ],
     "__v": 0
   },
@@ -19,14 +19,14 @@
     "id": "615d",
     "name": "ChatWave",
     "image": [
-      "/src/assets/image/projects/ChatWave_01.png",
-      "/src/assets/image/projects/ChatWave_02.png",
-      "/src/assets/image/projects/ChatWave_03.png",
-      "/src/assets/image/projects/ChatWave_04.png",
-      "/src/assets/image/projects/ChatWave_05.png",
-      "/src/assets/image/projects/ChatWave_06.png",
-      "/src/assets/image/projects/ChatWave_07.png",
-      "/src/assets/image/projects/ChatWave_08.png"
+      "/src/assets/projects/ChatWave_01.png",
+      "/src/assets/projects/ChatWave_02.png",
+      "/src/assets/projects/ChatWave_03.png",
+      "/src/assets/projects/ChatWave_04.png",
+      "/src/assets/projects/ChatWave_05.png",
+      "/src/assets/projects/ChatWave_06.png",
+      "/src/assets/projects/ChatWave_07.png",
+      "/src/assets/projects/ChatWave_08.png"
     ],
     "__v": 0
   },
@@ -34,14 +34,14 @@
     "id": "616d",
     "name": "MovieFlix",
     "image": [
-      "/src/assets/image/projects/MovieFlix_01.png",
-      "/src/assets/image/projects/MovieFlix_02.png",
-      "/src/assets/image/projects/MovieFlix_03.png",
-      "/src/assets/image/projects/MovieFlix_04.png",
-      "/src/assets/image/projects/MovieFlix_05.png",
-      "/src/assets/image/projects/MovieFlix_06.png",
-      "/src/assets/image/projects/MovieFlix_07.png",
-      "/src/assets/image/projects/MovieFlix_08.png"
+      "/src/assets/projects/MovieFlix_01.png",
+      "/src/assets/projects/MovieFlix_02.png",
+      "/src/assets/projects/MovieFlix_03.png",
+      "/src/assets/projects/MovieFlix_04.png",
+      "/src/assets/projects/MovieFlix_05.png",
+      "/src/assets/projects/MovieFlix_06.png",
+      "/src/assets/projects/MovieFlix_07.png",
+      "/src/assets/projects/MovieFlix_08.png"
     ],
     "__v": 0
   },
@@ -49,11 +49,11 @@
     "id": "617d",
     "name": "YouTube Playlist time Anylazer",
     "image": [
-      "/src/assets/image/projects/YT_01.png",
-      "/src/assets/image/projects/YT_02.png",
-      "/src/assets/image/projects/YT_03.png",
-      "/src/assets/image/projects/YT_04.png",
-      "/src/assets/image/projects/YT_05.png"
+      "/src/assets/projects/YT_01.png",
+      "/src/assets/projects/YT_02.png",
+      "/src/assets/projects/YT_03.png",
+      "/src/assets/projects/YT_04.png",
+      "/src/assets/projects/YT_05.png"
     ],
     "__v": 0
   }
