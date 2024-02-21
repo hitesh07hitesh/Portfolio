@@ -3,61 +3,61 @@
         "id": 1,
         "name": "HTML",
         "color": "#ff5722",
-        "icon": "/src/assets/icon/html.png"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/html.png"
     },
     {
         "id": 2,
         "name": "CSS",
         "color": "#3498db",
-        "icon": "/src/assets/icon/css.png"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/css.png"
     },
     {
         "id": 3,
         "name": "Tailwind",
         "color": "#38B2AC",
-        "icon": "/src/assets/icon/tailwind.png"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/tailwind.png"
     },
     {
         "id": 4,
         "name": "JavaScript",
         "color": "#fed93d",
-        "icon": "/src/assets/icon/JavaScript.png"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/JavaScript.png"
     },
     {
         "id": 5,
         "name": "React Js",
         "color": "#02a2e4",
-        "icon": "/src/assets/icon/react.png"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/react.png"
     },
     {
         "id": 6,
         "name": "Redux",
         "color": "#764abc",
-        "icon": "/src/assets/icon/redux.png"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/redux.png"
     },
     {
         "id": 7,
         "name": "Node Js",
         "color": "#8ac54a",
-        "icon": "/src/assets/icon/nodejs3.png"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/nodejs3.png"
     },
     {
         "id": 8,
         "name": "Express Js",
         "color": "#fff",
-        "icon": "/src/assets/icon/express.png"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/express.png"
     },
     {
         "id": 9,
         "name": "Mongo DB",
         "color": "#429a35",
-        "icon": "/src/assets/icon/mongodb.png"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/mongodb.png"
     },
     {
         "id": 10,
         "name": "Git",
         "color": "#ef5033",
-        "icon": "/src/assets/icon/Git.png"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/Git.png"
     }
 
 ]
