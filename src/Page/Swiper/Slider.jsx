@@ -4,10 +4,7 @@ import projectData from '../../data/projectImage.json'
 
 
 function Slider(props) {
-    console.log("slider")
-    
     const category = projectData.find(item => item.name === props.project);
-    console.log(category ? "true" : "fal")
     const data = category ? category.image.map(image => ({ image, caption: props.project })) : [];
     
     const captionStyle = {

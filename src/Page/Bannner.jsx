@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import pic from '../assets/image/zxc.png'
+import pic from '../assets/image/Hero-image.png'
 import resume from '../assets/image/resume_icon.png'
 import Contact from './Contact'
 // import pict from '../assets/image/down.png'
@@ -16,15 +16,13 @@ const Bannner = () => {
                     <h2 className='leading-none '> Full-Stack Developer</h2>
                     <p className='text-[.8rem] w-[20rem] md:w-[25rem] mt-2'>
                         I'm a Full-Stack Developer passionate about crafting innovative solutions. With expertise in scalable web applications, I turn ideas into reality through clean, efficient code.
-                        {/* Hello there! I'm Hitesh, a passionate Full-Stack Developer with a keen interest in crafting robust and innovative solutions. My journey in the world of programming has been filled with exciting challenges and continuous learning. I thrive on turning ideas into reality through clean and efficient code. */}
-                        {/* <br /><br />
-                        My expertise lies in building scalable web applications that deliver a seamless user experience. I am dedicated to staying current with the latest technologies and frameworks to ensure that my work meets the highest standards of quality and functionality.
-                        <br /><br />
-                        Let's embark on a journey together where we turn ideas into reality, create meaningful experiences, and push the boundaries of what's possible in the world of technology. */}
                     </p>
-                    <button className='mt-4 text-[1.4rem] font-medium border-[1px] border-white p-[2px] rounded-full z-50 flex gap-[2px] backdrop-blur-md'>
-                        <img className='my-auto h-[2.2rem] w-[2.2rem] p-[2px]  bg-white rounded-full border-[1px] object-cover' src={resume} alt="" />
-                        <span className='mx-2'>Resume</span>
+                    <button className='mt-4 text-[1.4rem] font-medium border-[1px] border-white p-[2px] rounded-full z-50 flex gap-[2px] backdrop-blur-md transition-transform duration-300 hover:translate-x-2 '>
+                        <a className='flex items-center' href="https://drive.google.com/file/d/1s10TPT19bIKJLBO2Cc0QS3kT7wRHPjS2/view" target="_blank" rel="noopener noreferrer">
+                            <img className='my-auto h-[2.2rem] w-[2.2rem] p-[2px]  bg-white rounded-full border-[1px] object-cover' src={resume} alt="" />
+                            <span className='mx-2'>Resume</span>
+                        </a>
+
                     </button>
                 </div>
 

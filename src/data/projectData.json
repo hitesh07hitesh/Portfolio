@@ -3,33 +3,34 @@
         "id": 1,
         "name": "GreenGrocery",
         "overview": "lorem33",
-        "image": 1,
+        "image": "/src/assets/image/projects/Green_01.png",
         "tools": "Express, Stripe payment, Swiper, MongoDB ,Cloudnary",
-        "Github": "https://github.com/hitesh07hitesh/GreenGrocery_MERN",
+        "description":"Developed an e-commerce platform for fresh produce, implementing authentication middleware for secure access. Dynamic product listings enable easy cart management, with Stripe integration ensuring secure payments, order placement, and reviews.",
+        "Github": "https://github.com/hiteshDhankhar01/GreenGrocery_MERN",
         "Website": "https://d"
     },
     {
         "id": 2,
         "name": "ChatWave",
-        "image": 2,
+        "image": "/src/assets/image/projects/ChatWave_02.png",
         "tools": "Socket.io Tailwain CSS, MongoDB, Node js, Express js",
-        "Github": "https://github.com/hitesh07hitesh/ChatWave",
-        "Website": "https://d"
+        "description":"Chatwave is a real-time chat application crafted with React, Socket.io, MongoDB, and Node.js. It enables instant communication with WebSocket technology, enhances user experience with Cloudinary for image uploads, and offers group chat functionality with message history.",
+        "Github": "https://github.com/hiteshDhankhar01/ChatWave"
     },
     {
         "id": 3,
         "name": "MovieFlix",
-        "image": 3,
+        "image": "/src/assets/image/projects/MovieFlix_06.png",
         "tools": "MovieDB API, Redux, Tailwaind css",
-        "Github": "https://github.com/hitesh07hitesh/MovieFlix",
-        "Website": "https://movieflix-hvisual.netlify.app/"
+        "description":"MovieFlix, a movie streaming website, utilizes React, Redux, and the MovieDB API. It delivers a dynamic movie-watching experience with features such as search, filtering, and trailer exploration, ensuring users find and enjoy their favorite movies effortlessly.",
+        "Github": "https://github.com/hiteshDhankhar01/MovieFlix"
     },
     {
         "id": 4,
         "name": "YouTube Playlist time Anylazer",
-        "image": 4,
-        "tools": "Youtube Data API, Material ui",
-        "Github": "https://github.com/",
-        "Website": "https://yt-playlist-time-analyzer.netlify.app/"
-    },
-]"
+        "image":  "/src/assets/image/projects/YT_03.png",
+        "tools": "Youtube Data API, React",
+        "description":"YouTube Playlist Time Analyzer is a dynamic tool allowing users to paste a YouTube playlist link to effortlessly find and calculate the total duration.",
+        "Github": "https://github.com/"
+    }
+]

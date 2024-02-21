@@ -10,7 +10,7 @@ const Swiper = (props) => {
     return (
         <>
             <div>
-                <button className='absolute bottom-2 left-1/2 transform -translate-x-1/2  text-white border-t-[1px] border-b-[1px] rounded-full w-auto p-1 px-4 backdrop-blur-sm flex items-center gap-2 ease-in-out delay-250   hover:border-[1px] hover:bottom-3' onClick={() => setShow(!show)}>
+                <button className='border-[1px] p-1 px-4 text-[1.2rem]  hover:bg-[#ffffff16] flex items-center transform transition-transform duration-300 hover:-translate-y-1' onClick={() => setShow(!show)}>
                     Images
                     <img  src={gallaryIcon} alt="" />
                 </button>

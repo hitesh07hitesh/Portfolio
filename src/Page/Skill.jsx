@@ -1,77 +1,19 @@
-import React from 'react'
-import htmlImg from '../assets/image/html.png'
-import cssImg from '../assets/image/css.png'
-import javaScriptImg from '../assets/image/JavaScript.png'
-import reactImg from '../assets/image/react.png'
-import nodeJsImg from '../assets/image/nodejs3.png'
-import tailwindImg from '../assets/image/tailwind.png'
-import reduxImg from '../assets/image/redux.png'
-import mongodbImg from '../assets/image/mongodb.png'
-import expressImg from '../assets/image/express.png'
-import gitImg from '../assets/image/Git.png'
+import data from "../data/skillData.json"
+import gameLogo from "../assets/image/game_logo.png"
 
-const data = [
+const moreProjectData = [
     {
-        id: 1,
-        name: "HTML",
-        color: "#ff5722",
-        icon: htmlImg,
+        name: "NewsHub ",
+        Github: "https://github.com/hiteshDhankhar01/NewsHub",
     },
     {
-        id: 2,
-        name: "CSS",
-        color: "#3498db",
-        icon: cssImg,
+        name: "Todo app",
+        Github: "https://github.com/hiteshDhankhar01/Todo.github.io",
     },
     {
-        id: 3,
-        name: "Tailwind",
-        color: "#38B2AC",
-        icon: tailwindImg,
-    },
-    {
-        id: 4,
-        name: "JavaScript",
-        color: "#fed93d",
-        icon: javaScriptImg,
-    },
-    {
-        id: 5,
-        name: "React Js",
-        color: "#02a2e4",
-        icon: reactImg,
-    },
-    {
-        id: 6,
-        name: "Redux",
-        color: "#764abc",
-        icon: reduxImg,
-    },
-    {
-        id: 7,
-        name: "Node Js",
-        color: "#8ac54a",
-        icon: nodeJsImg,
-    },
-    {
-        id: 8,
-        name: "Express Js",
-        color: "#fff",
-        icon: expressImg,
-    },
-    {
-        id: 9,
-        name: "Mongo DB",
-        color: "#429a35",
-        icon: mongodbImg,
-    },
-    {
-        id: 10,
-        name: "Git",
-        color: "#ef5033",
-        icon: gitImg,
-    },
-
+        name: "Weather app",
+        Github: "https://github.com/hiteshDhankhar01/Weather",
+    }
 ]
 
 const Skill = () => {
@@ -84,7 +26,7 @@ const Skill = () => {
 
                     {data.map((item) => (
                         <div key={item.id}
-                            className='m-4 h-[5rem] w-[5rem] atext-[${item.color}]  flex justify-center items-center flex-col gap-1 ease-in-out delay-50 hover:pb-4'
+                            className='m-4 h-[5rem] w-[5rem] atext-[${item.color}]  flex justify-center items-center flex-col gap-1 transform transition-transform duration-300 hover:-translate-y-1'
                             style={{ color: item.color }}>
                             <div className='border-[1px]  p-4  rounded-full  bg-[#f8f8f806]'
                                 style={{ borderColor: item.color }}
@@ -95,53 +37,41 @@ const Skill = () => {
                         </div>
                     ))}
 
-                    {/* <div className="text-[#FFA500] border-[1px] border-[#FFA500] rounded-md w-fit px-2 flex items-center h-fit">
-                        Git
-                    </div> */}
                 </div>
                 <div className='lg:w-1/2 abg-[#ffffff37] aasdf mn abg-[#000000] rounded-sm flex flex-col gap-4  text-white p-4 md:p-8 '>
                     <div className='relative'>
                         <h2 className='text-[1.4rem]  w-fit p-2 pl-6 '>More Projects</h2>
                         <div className='border-b borer-[1px] border-white absolute w-[12rem] md:w-[13rem] -left-4 md:-left-8'></div>
                     </div>
-                    <div className='aasdf bgbutton  flex justify-between border-[1px] rounded-md'>
-                        <h3 className='text-[1rem] p-2'>
-                            YouTube Playlist Analyzer
-                        </h3>
-                        <div className=' flex gap-2 p-2'>
-                            <button className='bgc h-full px-2 rounded-sm'>{`Code </>`}</button>
-                            <button className='bgc h-full px-2 rounded-sm'>{`Live ->`}</button>
-                        </div>
-                    </div>
-                    <div className='aasdf bgbutton  flex justify-between border-[1px] rounded-md'>
-                        <h3 className='text-[1rem] p-2'>
-                            YouTube Playlist Analyzer
-                        </h3>
-                        <div className=' flex gap-2 p-2'>
-                            <button className='bgc h-full px-2 rounded-sm'>{`Code </>`}</button>
-                            <button className='bgc h-full px-2 rounded-sm'>{`Live ->`}</button>
-                        </div>
-                    </div>
-                    <div className='aasdf bgbutton  flex justify-between border-[1px] rounded-md'>
-                        <h3 className='text-[1rem] p-2'>
-                            YouTube Playlist Analyzer
-                        </h3>
-                        <div className=' flex gap-2 p-2'>
-                            <button className='bgc h-full px-2 rounded-sm'>{`Code </>`}</button>
-                            <button className='bgc h-full px-2 rounded-sm'>{`Live 🡥`}</button>
-                        </div>
-                    </div>
-                    <div className='aasdf bgbutton  flex justify-between border-[1px] rounded-md'>
-                        <h3 className='text-[1rem] p-2'>
-                            YouTube Playlist Analyzer
-                        </h3>
-                        <div className=' flex gap-2 p-2'>
-                            <button className='bgc h-full px-2 rounded-sm'>{`Code < >`}</button>
-                            <button className='bgc h-full px-2 rounded-sm'>{`Live ->`}</button>
-                        </div>
-                    </div>
 
-
+                    <div className='aasdf bgbutton  flex justify-between border-[1px] rounded-md p-2 items-center cursor-default'>
+                        <h3 className='text-[1.2rem]  flex items-center '>
+                            <img className="h-[2rem] border-full object-contain pr-2" src={gameLogo} alt="" />
+                            Zombie killer
+                            <span className="text-[1rem] px-2 glow">  Game </span>
+                        </h3>
+                        <div className=' flex gap-2 '>
+                            <button className='bgc h-full  rounded-sm flex gap-2 p-1 px-4 text-[1.1rem]' >
+                                <a href="https://zombie-killer.netlify.app/" target="_blank" rel="noopener noreferrer">
+                                    Play 🡥
+                                </a>
+                            </button>
+                        </div>
+                    </div>
+                    {moreProjectData.map((item, index) => (
+                        <div key={index} className='aasdf bgbutton  flex justify-between border-[1px] rounded-md'>
+                            <h3 className='text-[1rem] p-2'>
+                                {item.name}
+                            </h3>
+                            <div className=' flex gap-2 p-2'>
+                                <button className='bgc h-full  rounded-sm flex gap-2 px-3 ' >
+                                    <a href={item.Github} target="_blank" rel="noopener noreferrer">
+                                    {`Code < >`}
+                                    </a>
+                                </button>
+                            </div>
+                        </div>
+                    ))}
                 </div>
             </div>
         </div>

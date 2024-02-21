@@ -42,6 +42,19 @@ body {
     transition-duration: 0.2s;
 }
 
+.glow {
+    color: #fff;
+    text-shadow:
+        0 0 3px #fff,
+        0 0 5px #fff,
+        0 0 11px #fff,
+        0 0 18px #0fa,
+        0 0 20px #0fa,
+        0 0 22px #0fa,
+        0 0 25px #0fa;
+    transition-duration: 0.2s;
+}
+
 h2 {
     cursor: default;
 }
