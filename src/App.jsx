@@ -5,8 +5,6 @@ import Project from './Page/Project'
 import Skill from './Page/Skill'
 
 function App() {
-
-
   return (
     <>
       <Bannner />
