@@ -1,5 +1,39 @@
 [
   {
+    "id": "614b",
+    "name": "LaywerMeet",
+    "image": [
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_01.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_02.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_03.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_04.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_05.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_06.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_07.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_08.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_09.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_10.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_11.png"
+    ]
+  },
+  {
+    "id": "614a",
+    "name": "LawyerMeet Admin Dashboard",
+    "image": [
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_01.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_02.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_03.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_04.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_05.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_06.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_07.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_08.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_09.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_10.png",
+      "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_11.png"
+    ]
+  },
+  {
     "id": "614d",
     "name": "GreenGrocery",
     "image": [
@@ -11,9 +45,7 @@
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/Green_06.png",
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/Green_07.png",
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/Green_08.png"
-      
-    ],
-    "__v": 0
+    ]
   },
   {
     "id": "615d",
@@ -27,8 +59,7 @@
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/ChatWave_06.png",
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/ChatWave_07.png",
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/ChatWave_08.png"
-    ],
-    "__v": 0
+    ]
   },
   {
     "id": "616d",
@@ -42,8 +73,7 @@
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/MovieFlix_06.png",
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/MovieFlix_07.png",
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/MovieFlix_08.png"
-    ],
-    "__v": 0
+    ]
   },
   {
     "id": "617d",
@@ -54,7 +84,6 @@
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/YT_03.png",
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/YT_04.png",
       "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/YT_05.png"
-    ],
-    "__v": 0
+    ]
   }
 ]

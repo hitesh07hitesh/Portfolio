@@ -3,21 +3,21 @@
         "id": 1,
         "name": "LaywerMeet",
         "overview": "lorem33",
-        "image": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/Green_01.png",
-        "tools": "Express, Stripe payment, Swiper, MongoDB ,Cloudnary",
-        "description":"Developed an e-commerce platform for fresh produce, implementing authentication middleware for secure access. Dynamic product listings enable easy cart management, with Stripe integration ensuring secure payments, order placement, and reviews.",
-        "Github": "https://github.com/hiteshDhankhar01/GreenGrocery_MERN",
-        "Website": "https://d"
+        "image": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet_01.png",
+        "tools": "Next js, TypeScript, Tailwain CSS, MongoDB",
+        "description": "LawyerMeet is a web application that enables users to book appointments with lawyers. It provides a seamless experience for scheduling, selecting legal services, and leaving messages for lawyers. Built with modern technologies like Next.js, TypeScript, Tailwind CSS, and MongoDB, it ensures a smooth and responsive user experience.",
+        "Github": "https://github.com/hiteshDhankhar01/lawyer-appointment",
+        "Website": "https://lawyer-appointment-theta.vercel.app/"
     },
     {
         "id": 2,
         "name": "LawyerMeet Admin Dashboard",
         "overview": "lorem33",
-        "image": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/Green_01.png",
-        "tools": "Express, Stripe payment, Swiper, MongoDB ,Cloudnary",
-        "description":"Developed an e-commerce platform for fresh produce, implementing authentication middleware for secure access. Dynamic product listings enable easy cart management, with Stripe integration ensuring secure payments, order placement, and reviews.",
-        "Github": "https://github.com/hiteshDhankhar01/GreenGrocery_MERN",
-        "Website": "https://d"
+        "image": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/refs/heads/main/src/assets/projects/LawyerMeet-Dashboard_01.png",
+        "tools": "Next js, Shadcn UI, Chart js, Zod, TypeScript, MongoDB",
+        "description": "The LawyerMeet Admin Dashboard is a web application designed to display data, graphs, and other details while managing the LawyerMeet application. (LawyerMeet is a Lawyer Appointment booking platform that enables users to book appointments with lawyers.) Built with modern technologies such as Next.js, TypeScript, Zod, React Hook Form, Shadcn UI, Tailwind CSS, and MongoDB, it ensures a seamless and responsive user experience.",
+        "Github": "https://github.com/hiteshDhankhar01/lawyer-appointment--admin-dashboard",
+        "Website": "https://lawyer-appointment-admin-dashboard.vercel.app/"
     },
     {
         "id": 3,
@@ -25,32 +25,35 @@
         "overview": "lorem33",
         "image": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/Green_01.png",
         "tools": "Express, Stripe payment, Swiper, MongoDB ,Cloudnary",
-        "description":"Developed an e-commerce platform for fresh produce, implementing authentication middleware for secure access. Dynamic product listings enable easy cart management, with Stripe integration ensuring secure payments, order placement, and reviews.",
+        "description": "GreenGrocery is an intuitive e-commerce platform tailored for buying fresh fruits and vegetables. Customers can create accounts, browse a wide range of products, add items to the cart, and place orders. The app also supports secure payments via Stripe and allows users to leave reviews and ratings for purchased products. Built with modern technologies like React, MongoDB, and Node.js, GreenGrocery offers a smooth and secure shopping experience.",
         "Github": "https://github.com/hiteshDhankhar01/GreenGrocery_MERN",
-        "Website": "https://d"
+        "Website": "https://green-grocery-mern.vercel.app/"
     },
     {
         "id": 4,
         "name": "ChatWave",
         "image": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/ChatWave_02.png",
-        "tools": "Socket.io Tailwain CSS, MongoDB, Node js, Express js",
-        "description":"Chatwave is a real-time chat application crafted with React, Socket.io, MongoDB, and Node.js. It enables instant communication with WebSocket technology, enhances user experience with Cloudinary for image uploads, and offers group chat functionality with message history.",
-        "Github": "https://github.com/hiteshDhankhar01/ChatWave"
+        "tools": "Socket.io, Tailwain CSS, MongoDB, Node js, Express js",
+        "description": "Chatwave is a cutting-edge real-time chat platform built to enhance user-to-user communication. This web application allows users to create accounts, chat with friends, and seamlessly share images using Cloudinary. Whether in private conversations or group chats, Chatwave ensures a smooth messaging experience with live message updates, making it an ideal solution for real-time communication.",
+        "Github": "https://github.com/hiteshDhankhar01/ChatWave",
+        "Website": "https://chat-wave-alpha.vercel.app/"
     },
     {
         "id": 5,
         "name": "MovieFlix",
         "image": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/MovieFlix_01.png?auto=compress",
         "tools": "MovieDB API, Redux, Tailwaind css",
-        "description":"MovieFlix, a movie streaming website, utilizes React, Redux, and the MovieDB API. It delivers a dynamic movie-watching experience with features such as search, filtering, and trailer exploration, ensuring users find and enjoy their favorite movies effortlessly.",
-        "Github": "https://github.com/hiteshDhankhar01/MovieFlix"
+        "description": "MovieFlix is a dynamic movie streaming platform that brings the latest movies and shows to your screen. Built with React, Redux, and the MovieDB API, this application allows users to search for movies, view trailers, and explore similar content. With its seamless filtering options and immersive UI, users can filter results by genre, ratings, release year, and more, delivering a personalized movie-watching experience.",
+        "Github": "https://github.com/hiteshDhankhar01/MovieFlix",
+        "Website": "https://movie-flix-snowy.vercel.app/"
     },
     {
         "id": 6,
         "name": "YouTube Playlist time Anylazer",
-        "image":  "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/YT_01.png",
+        "image": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/projects/YT_01.png",
         "tools": "Youtube Data API, React",
-        "description":"YouTube Playlist Time Analyzer is a dynamic tool allowing users to paste a YouTube playlist link to effortlessly find and calculate the total duration.",
-        "Github": "https://github.com/"
+        "description": "YouTube Playlist Time Analyzer is a simple yet powerful tool that calculates the total runtime of any YouTube playlist. By utilizing the YouTube Data API, this web application lets users input a YouTube playlist URL and returns the total duration of all videos in that playlist.",
+        "Github": "https://github.com/hiteshDhankhar01/yt-playlist-time-analyzer",
+        "Website": "https://yt-playlist-time-analyzer.netlify.app/"
     }
 ]

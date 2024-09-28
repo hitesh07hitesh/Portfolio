@@ -18,11 +18,11 @@ const moreProjectData = [
 
 const Skill = () => {
     return (
-        <div className='aw-full mt-8 relative '>
+        <div className='mt-8 relative '>
             <h2 className=' text-white text-[2rem] aml-6 border-b-[1px] border-white w-fit 
             px-2 pl-6'>Skills</h2>
             <div className='flex flex-col lg:flex-row m-4 gap-10'>
-                <div className='  border-[1px] lg:w-1/2 ah-[100px] p-4 flex gap-6 flex-wrap justify-center items-center cursor-default rounded-md h-fit '>
+                <div id="skill" className='  border-[1px] lg:w-1/2 ah-[100px] p-4 flex gap-6 flex-wrap justify-center items-center cursor-default arounded-md h-fit '>
 
                     {data.map((item) => (
                         <div key={item.id}

@@ -32,8 +32,8 @@
     {
         "id": 6,
         "name": "Next Js",
-        "color": "#fff",
-        "icon": "https://utfs.io/f/2wokez13KpRf3TguXhbkHvuSZMUwqfQb39T7NO2mdorXsa4x"
+        "color": "#DBDBDB",
+       "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/nextjs.png"
     },
     {
         "id": 7,
@@ -69,6 +69,6 @@
         "id": 12,
         "name": "TypeScript",
         "color": "#3178C6",
-        "icon": "https://utfs.io/f/2wokez13KpRfddC2IdRVMfIHnX15JNloLwPBR7a4DQxj2k06"
+        "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/ts.png"
     }
 ]
