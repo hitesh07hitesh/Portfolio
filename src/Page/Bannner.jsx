@@ -18,7 +18,7 @@ const Bannner = () => {
                         I'm a Full-Stack Developer passionate about crafting innovative solutions. With expertise in scalable web applications, I turn ideas into reality through clean, efficient code.
                     </p>
                     <button className='mt-4 text-[1.4rem] font-medium border-[1px] border-white p-[2px] rounded-full z-50 flex gap-[2px] backdrop-blur-md transition-transform duration-300 hover:translate-x-2 '>
-                        <a className='flex items-center' href="https://drive.google.com/file/d/1s10TPT19bIKJLBO2Cc0QS3kT7wRHPjS2/view" target="_blank" rel="noopener noreferrer">
+                        <a className='flex items-center' href="https://drive.google.com/file/d/1AEiwEZ77d8Ha--eWLoWeTsYG3hxmTN2I/view" target="_blank" rel="noopener noreferrer">
                             <img className='my-auto h-[2.2rem] w-[2.2rem] p-[2px]  bg-white rounded-full border-[1px] object-cover' src={resume} alt="" />
                             <span className='mx-2'>Resume</span>
                         </a>

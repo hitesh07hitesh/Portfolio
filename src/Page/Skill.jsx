@@ -29,10 +29,10 @@ const Skill = () => {
                             className='m-4 h-[5rem] w-[5rem] atext-[${item.color}]  flex justify-center items-center flex-col gap-1 transform transition-transform duration-300 hover:-translate-y-1'
                             style={{ color: item.color }}>
                             <div className={`border-[1px]  p-4  rounded-full  bg-[#f8f8f806] 
-                            ${item.id === 5 || item.id === 6 ? 'logoRound' : ''} `  }
+                            ${item.id === 5 ? 'logoRound' : ''} `  }
                                 style={{ borderColor: item.color }}
                             >
-                                <img className={item.id === 3 ? 'py-2' : ''} src={item.icon} alt="html" />
+                                <img className={item.id === 3 ? 'py-2' : ''} src={item.icon} alt="404" />
                             </div>
                             <h3 className={`text-[${item.color}] `}>{item.name}</h3>
                         </div>

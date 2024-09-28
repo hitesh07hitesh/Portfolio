@@ -31,33 +31,44 @@
     },
     {
         "id": 6,
+        "name": "Next Js",
+        "color": "#fff",
+        "icon": "https://utfs.io/f/2wokez13KpRf3TguXhbkHvuSZMUwqfQb39T7NO2mdorXsa4x"
+    },
+    {
+        "id": 7,
         "name": "Redux",
         "color": "#764abc",
         "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/redux.png"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Node Js",
         "color": "#8ac54a",
         "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/nodejs3.png"
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Express Js",
         "color": "#fff",
         "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/express.png"
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Mongo DB",
         "color": "#429a35",
         "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/mongodb.png"
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "Git",
         "color": "#ef5033",
         "icon": "https://raw.githubusercontent.com/hiteshDhankhar01/Portfolio/main/src/assets/icon/Git.png"
+    },
+    {
+        "id": 12,
+        "name": "TypeScript",
+        "color": "#3178C6",
+        "icon": "https://utfs.io/f/2wokez13KpRfddC2IdRVMfIHnX15JNloLwPBR7a4DQxj2k06"
     }
-
 ]

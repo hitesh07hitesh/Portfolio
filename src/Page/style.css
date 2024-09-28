@@ -23,8 +23,11 @@
 .shadow {
     /* -webkit-filter: drop-shadow(1px 1px 0 black) drop-shadow(-1px -1px 0 black);
     filter: drop-shadow(1px 1px 0 black) drop-shadow(-1px -1px 0 black); */
-    -webkit-filter: drop-shadow(3px 5px 5px rgba(1, 1, 1, 0.5)) drop-shadow(3px 5px 5px rgba(1, 1, 1, 0.5));
-    filter: drop-shadow(3px 5px 5px rgba(1, 1, 1, 0.5)) drop-shadow(3px 5px 5px rgba(1, 1, 1, 0.5));
+    /* -webkit-filter: drop-shadow(3px 5px 5px rgba(1, 1, 1, 0.5)) drop-shadow(3px 5px 5px rgba(1, 1, 1, 0.5));
+    filter: drop-shadow(3px 5px 5px rgba(1, 1, 1, 0.5)) drop-shadow(3px 5px 5px rgba(1, 1, 1, 0.5)); */
+    -webkit-filter: drop-shadow(3px 5px 5px rgba(1, 1, 1, 0.5)) drop-shadow(3px 0px 5px rgba(1, 1, 1, 0.5));
+    filter: drop-shadow(3px 5px 5px rgba(1, 1, 1, 0.5)) drop-shadow(3px 0px 5px rgba(1, 1, 1, 0.5));
+
 }
 
 
